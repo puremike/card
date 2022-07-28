@@ -4,17 +4,17 @@ html {
 
 #card-container {
   background-color: white;
-  width: 320px;
-  margin: 80px auto;
-  padding: 10px 0;
+  width: 20rem;
+  margin: 5rem auto;
+  padding: 0.625rem 0;
   font-family: "Lato", sans-serif;
-  font-size: 17px;
+  font-size: 1.063rem;
   color: rgb(94, 92, 92);
   transition: 0.5s ease-out 0.2s;
 }
 
 #card-container:hover {
-  margin-top: 140px;
+  margin-top: 8.75rem;
   transform: scale(1.2);
   border-radius: 3px;
 }
@@ -22,7 +22,7 @@ html {
 #card-details,
 #card-benefits,
 #CTA {
-  padding: 0 40px;
+  padding: 0 2.5rem;
 }
 
 #card-details,
@@ -32,11 +32,11 @@ html {
 }
 
 #card-sub h1 {
-  font-size: 45px;
+  font-size: 2.813rem;
   font-family: "Oswald", sans-serif;
   color: rgb(44, 40, 40);
-  line-height: 52px;
-  margin-bottom: 20px;
+  line-height: 3.25rem;
+  margin-bottom: 1.25rem;
 }
 
 #card-sub p {
@@ -45,21 +45,21 @@ html {
 
 #card-price h2 {
   font-family: "Patua One", cursive;
-  font-size: 50px;
+  font-size: 3.125rem;
   background-color: #60d9ee;
   color: rgb(44, 40, 40);
-  margin: 25px 0;
-  padding: 10px 0;
+  margin: 1.563rem 0;
+  padding: 0.625rem 0;
 }
 
 #card-details {
-  margin: 20px 0;
+  margin: 1.25rem 0;
 }
 
 #card-benefits {
   color: rgb(82, 79, 80);
-  margin-top: 20px;
-  font-size: 18px;
+  margin-top: 1.25rem;
+  font-size: 1.125rem;
 }
 
 svg {
@@ -72,18 +72,18 @@ svg {
 }
 
 .icons p {
-  margin: 5px 8px;
+  margin: 0.313rem 0.5rem;
 }
 #CTA {
   color: #1ac1df;
   border: 1px solid rgb(153, 149, 149);
   border-radius: 2px;
-  width: 248px;
-  margin: 35px auto 20px auto;
+  width: 15.5rem;
+  margin: 2.188rem auto 1.25rem auto;
   padding: 0;
   font-family: "Oswald", sans-serif;
-  font-size: 15px;
-  word-spacing: 2px;
+  font-size: 1rem;
+  word-spacing: 0.125rem;
 }
 
 #CTA:hover {
